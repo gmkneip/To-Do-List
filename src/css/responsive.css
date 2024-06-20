@@ -1,0 +1,12 @@
+@media(max-width: 620px){
+    .todo-app{
+        width:90%
+    }
+    input{
+        width:90%;
+        font-size: 12px;
+    }
+    button {
+        padding: 16px 30px;
+    }
+}
